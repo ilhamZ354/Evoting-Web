@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari&family=Didact+Gothic&display=swap');
+
+body{
+    background: linear-gradient(to right, #B4528F 45%, #4A1764);   
+}
+h1{
+    font-family: 'Anek Devanagari', sans-serif;
+    color: white;
+}
+h2{
+    font-family: 'Tahoma', sans-serif;
+    color: white;
+}
+.tombol1{
+    box-shadow: 9px 10px 5px 3px rgb(61, 2, 31);
+    font-family: 'Didact Gothic', sans-serif;
+}
+.tombol2{
+    box-shadow: 9px 10px 5px 3px #3a0246;
+    font-family: 'Didact Gothic', sans-serif;
+}
